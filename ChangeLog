@@ -1,0 +1,13 @@
+CHANGES
+=======
+
+0.1.0
+-----
+
+* Add tests for RunSQL
+* Add readme file
+* Update setup config
+* Add license
+* Add gitignore file
+* Add setup and change structure
+* Add basic RunSQL class
