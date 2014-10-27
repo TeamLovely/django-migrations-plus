@@ -1,6 +1,12 @@
 CHANGES
 =======
 
+* Add Django settings file for tests
+* Add AUTHORS file
+* Add ChangeLog file
+* Add requirements for test and manage.py used to run them
+* Add tox file
+
 0.1.0
 -----
 
